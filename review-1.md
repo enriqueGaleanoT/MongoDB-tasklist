@@ -12,3 +12,4 @@ usamos Servidores en la nube o locales.
 Las funcionalidades de mi producto es que es muy sencillo de usar, podemos hacer un "CRUD" por sus siglas en inglés. El "CRUD" se refiere a crear, leer, actualizar y eliminar.
 Para poder hacer uso de esta herramienta que sirve para los desarrolladores back-end ósea que trabajan en la parte de código de mantenimiento, base de datos y funcionalidad de la aplicación,
 debemos de usar el software de "Post-Man". Donde podremos hacer un "Get" (visualizar la información), "Post" (Agregar información), "PUT" (Actualizar información), "DELETE" (Eliminar información).
+El software "Post-Man" nos servira con MongoDB-Atlas y Mongo-DB Local
